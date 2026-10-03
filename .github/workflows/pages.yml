@@ -24,6 +24,7 @@ jobs:
           mkdir _site
           cp index.html *.svg *.png *.webp _site/
           cp -R assets _site/assets
+          cp -R payment-logos _site/payment-logos
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

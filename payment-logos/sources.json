@@ -1,0 +1,14 @@
+{
+  "shinhan": "https://www.shinhancard.com/pconts/company/images/contents/shc_ci_basic_00.png",
+  "kb": "https://card.kbcard.com/CMN/images/kb-kookmin-card-official-logo.png",
+  "samsung": "https://static12.samsungcard.com/images/personal/samsung.jpg",
+  "hyundai": "https://www.hyundaicard.com/docfiles/resources/pc/images/common/logo/logo_HC.svg",
+  "lotte": "https://image.lottecard.co.kr/webapp/pc/images/common/img_errorLogo.png",
+  "woori": "https://pc.wooricard.com/dcpc/img/pc/common/h1_logo.png",
+  "hana": "https://www.hanacard.co.kr/images/common/favicon-192.png",
+  "nh": "https://smartcard.nonghyup.com/content/images/favicon.png",
+  "bc": "https://www.bccard.com/images/sns/h1_logo.gif",
+  "kakao": "https://t1.daumcdn.net/kakaopay/partner/center/image/kakaopay_%EA%B2%B0%EC%A0%9C%EC%88%98%EB%8B%A8%EB%A1%9C%EA%B3%A0.zip",
+  "naver": "https://developers.pay.naver.com/img/logo/signature/logo_navergr_small.svg",
+  "toss": "https://static.toss.im/logos/svg/logo-toss-pay.svg"
+}
